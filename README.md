@@ -1,4 +1,4 @@
-# Calculator_Application_Backend
+# Calculator Application Backend
 
 **Description : **
 
@@ -21,7 +21,7 @@ POST - http://localhost:3002
 
 operation type = 1 - Addition; 2 - Subtraction; 3 - Multiplication; 4 - Division
 
-**Error Handling : **
+**Error Handling :**
 
 1. Empty array
 2. Single digit
