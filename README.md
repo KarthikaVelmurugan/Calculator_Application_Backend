@@ -1,6 +1,6 @@
 # Calculator Application Backend
 
-**Description : **
+**Description :**
 
 The Calculator Application performs the different operation based on the operation type giving during API call , It using express js and running node js environment.
 
